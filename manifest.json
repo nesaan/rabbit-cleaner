@@ -14,7 +14,7 @@
 	"toggle": {
       "suggested_key": {
         "default": "Ctrl+Shift+F",
-        "mac": "Command+Shift+Y"
+        "mac": "Command+Shift+F"
       },
       "description": "Toggle cleaning"
     }
