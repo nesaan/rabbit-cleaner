@@ -10,6 +10,15 @@
     },
   "page_action": {
   },
+  "commands": {
+	"toggle": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "Command+Shift+Y"
+      },
+      "description": "Toggle cleaning"
+    }
+  },
   "options_page": "options.html",
   "icons": {
     "16": "images/get_started16.png",
